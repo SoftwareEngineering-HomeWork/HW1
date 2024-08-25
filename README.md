@@ -1,4 +1,6 @@
 # HW1
 A beautiful repo
-	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+![Static Badge](https://img.shields.io/badge/python-v13.3-green)
+
  
