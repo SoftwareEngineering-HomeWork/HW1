@@ -1,7 +1,7 @@
 name: Bubble sort
 
 on:
-  pull_request:
+  push:
     branches: [ "main" ]
 
 jobs:
