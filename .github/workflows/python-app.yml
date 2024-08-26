@@ -10,8 +10,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 13.3
-      uses: actions/setup-python@v13.3
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v3.13
       with:
         python-version: "13.3"
     - name: Install pytest
