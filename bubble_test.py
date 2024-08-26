@@ -8,5 +8,5 @@ def testsort():
 def testsort2():
     tosort2=[10,14,12,16,100]
     expectedsort2=[12,10,14,16,100]
-    #assert bubblesort(tosort2)==expectedsort2
+    assert bubblesort(tosort2)==expectedsort2
 
